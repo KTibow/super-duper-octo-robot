@@ -1,2 +1,2 @@
 # super-duper-octo-robot
-an example conflict pr
+an example conftct pr
